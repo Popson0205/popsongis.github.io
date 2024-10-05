@@ -21,8 +21,6 @@ Click the link above to download my CV, where you'll find more details about my 
 ## 🌐 [Portfolio](https://drive.google.com/drive/folders/1YrVFYzATDwL7Y0dkcb-obHMFA9SLImtY?usp=drive_link)
 My portfolio showcases my GIS projects, maps, and analysis.
 
-)
-
 ---
 
 ### Get in Touch
