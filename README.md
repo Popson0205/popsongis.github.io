@@ -1,8 +1,12 @@
-![Profile Image jpg](https://github.com/user-attachments/assets/1939f3f2-dc12-4d86-9820-13d3d22a3171)# Hi, I'm [POPOOLA IDRIS BAMIGBOYE] 👋
+
+![Profile Image jpg](https://github.com/user-attachments/assets/1939f3f2-dc12-4d86-9820-13d3d22a3171)
+# Hi, I'm POPOOLA IDRIS BAMIGBOYE 👋
+
 
 ### 🌍 GIS Analyst | 🌐 Geospatial Specialist | 📊 Data Visualization Enthusiast
 
-Welcome to my GitHub profile! I am a GIS Analyst with experience in geospatial data analysis, cartography, and remote sensing. I love creating insightful maps and visualizations from complex data.
+
+A skilled GIS analyst with a proven track record of leveraging robust analytical and critical thinking abilities. Possessing extensive expertise in the Geospatial Domain, I am proficient in utilizing Remote Sensing and GIS software to effectively process, analyze, and interpret geographic data. Renowned for my critical thinking and analytical prowess, I consistently contribute as a key decision-maker and problem solver within teams.
 
 ## 🛠️ Skills & Tools
 - **GIS Software**: ArcGIS, QGIS, Google Earth Engine
@@ -17,14 +21,11 @@ Click the link above to download my CV, where you'll find more details about my 
 ## 🌐 [Portfolio](https://drive.google.com/drive/folders/1YrVFYzATDwL7Y0dkcb-obHMFA9SLImtY?usp=drive_link)
 My portfolio showcases my GIS projects, maps, and analysis.
 
-## 📷 Profile Image
-
-![Profile Image](![Profile Image jpg](https://github.com/user-attachments/assets/0a18e923-30f5-435d-a20a-f30e26f14ef5)
 )
 
 ---
 
 ### Get in Touch
 
-- **Email**: [youremail@example.com](idrispopoola02@gmail.com)
-- **LinkedIn**: [linkedin.com/in/your-profile]()
+- **Email**: [idrispopoola02@gmail.com]-
+- **LinkedIn**: [https://www.linkedin.com/in/idris-popoola-b6737922a]
